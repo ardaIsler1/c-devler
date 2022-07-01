@@ -1,0 +1,7 @@
+C:\Users\Arda\Desktop\ödevler\çözümler\ödev4\bin\Debug\ödev4.exe.config
+C:\Users\Arda\Desktop\ödevler\çözümler\ödev4\bin\Debug\ödev4.exe
+C:\Users\Arda\Desktop\ödevler\çözümler\ödev4\bin\Debug\ödev4.pdb
+C:\Users\Arda\Desktop\ödevler\çözümler\ödev4\obj\Debug\ödev4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arda\Desktop\ödevler\çözümler\ödev4\obj\Debug\ödev4.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\ödevler\çözümler\ödev4\obj\Debug\ödev4.exe
+C:\Users\Arda\Desktop\ödevler\çözümler\ödev4\obj\Debug\ödev4.pdb
