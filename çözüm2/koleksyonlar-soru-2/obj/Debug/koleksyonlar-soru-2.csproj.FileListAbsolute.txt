@@ -1,0 +1,8 @@
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\bin\Debug\koleksyonlar-soru-2.exe.config
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\bin\Debug\koleksyonlar-soru-2.exe
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\bin\Debug\koleksyonlar-soru-2.pdb
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\obj\Debug\koleksyonlar-soru-2.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\obj\Debug\koleksyonlar-soru-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\obj\Debug\koleksyonlar-soru-2.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\obj\Debug\koleksyonlar-soru-2.exe
+C:\Users\Arda\Desktop\ödevler\çözüm2\koleksyonlar-soru-2\obj\Debug\koleksyonlar-soru-2.pdb
